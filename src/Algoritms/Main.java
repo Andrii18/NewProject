@@ -15,7 +15,7 @@ public class Main {
 //                                                        Method TwoSum
 
 //        int [] a = {7, 2, 3, 6, 0};
-//        TwoSum.sum(a, 5);
+//        TwoSum.sum(a, 9);
 //
 
 //                                                       Method Palindrome for worlds
@@ -40,7 +40,7 @@ public class Main {
 
 //                                                        Method Prime
 
-        Prime.primeNumber(10);
+//        Prime.primeNumber(10);
 
     }
 }

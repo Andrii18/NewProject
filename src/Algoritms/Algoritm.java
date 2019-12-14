@@ -2,8 +2,8 @@ package Algoritms;
 
 public class Algoritm {
 
-
 //   Algoritm for reversing worlds
+
     public void revers(String str) {
         char[] array = str.toCharArray();
         char storage;

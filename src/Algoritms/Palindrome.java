@@ -6,7 +6,6 @@ public class Palindrome {
 //    For worlds
 
     public static boolean isPalindrome (String word) {
-
         boolean result = false;
         char[] array = word.toCharArray();
         for(int i = 0; i < array.length/2; i++) {
@@ -18,7 +17,6 @@ public class Palindrome {
         result = true;
         return result;
     }
-
 
 //    For numbers
 
