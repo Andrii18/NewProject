@@ -7,9 +7,7 @@ public class BubbleSort1 {
         boolean isSort = false;
         int count = 0;
         int storage = 0;
-
         while (isSort != true) {
-
             for (int i = 0; i < array.length - 1; i++) {
                 if (array[i+1] < array[i]) {
                     storage = array[i];
@@ -18,7 +16,6 @@ public class BubbleSort1 {
                     count = count + 1;
                 }
             }
-
             if (count > 0) {
                 isSort = false;
                 count = 0;
@@ -28,8 +25,5 @@ public class BubbleSort1 {
         System.out.println(i);
 
     }
-
-
-
 
 }
