@@ -4,7 +4,6 @@ import java.util.Random;
 
 public class EmailGenerator {
 
-    public class EmailGenerator {
 
         public String generator() {
 
@@ -21,4 +20,4 @@ public class EmailGenerator {
             return email;
         }
     }
-}
+

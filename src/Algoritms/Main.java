@@ -42,5 +42,8 @@ public class Main {
 
 //        Prime.primeNumber(10);
 
+        EmailGenerator emailGenerator = new EmailGenerator();
+        emailGenerator.generator();
+
     }
 }
